@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Grades>
+  <year category="Freshman">
+    <semester category="fall">
+    	<course> 
+    		<dept>English</dept>
+    		<class_name>ENG01</class_name>
+    		<grade> A </grade>
+    		<instructor>Johny Walker</instructor>
+    	</course>
+		<course> 
+			<dept>Mathematics</dept>
+			<class_name>MAT10A</class_name>
+			<grade> A </grade>
+			<instructor>Susan Parker</instructor>
+		</course>
+		<course> 
+			<dept>Chemistry</dept>
+			<class_name>CHEM10A</class_name>
+			<grade>A</grade> 
+			<instructor>John Dolnick</instructor>
+		</course> 
+		<course>
+			<dept>Physics</dept>
+			<class_name>PHY10A</class_name>
+			<grade> A </grade>
+			<instructor>Prasanna Suman</instructor>
+		</course>
+		<GPA>3.768</GPA>
+	</semester>
+   <semester category="spring">
+    		<course> 
+    		<dept>English</dept>
+    		<class_name>ENG02</class_name>
+    		<grade> A </grade>
+    		<instructor>Johny Walker</instructor>
+    	</course>
+		<course> 
+			<dept>Mathematics</dept>
+			<class_name>MAT12A</class_name>
+			<grade> A </grade>
+			<instructor>Jose Parker</instructor>
+		</course>
+		<course> 
+			<dept>Chemistry</dept>
+			<class_name>CHEM11A</class_name>
+			<grade>A</grade> 
+			<instructor>Solice Adler</instructor>
+		</course> 
+		<course>
+			<dept>Physics</dept>
+			<class_name>PHY10A</class_name>
+			<grade> A </grade>
+			<instructor>Prasanna Suman</instructor>
+		</course>
+		<GPA>3.768</GPA>
+	</semester>
+  </year>
+  <year category="Sophomore">
+		 <semester category="fall">
+    		<course> 
+    		<dept>English</dept>
+    		<class_name>ENG31</class_name>
+    		<grade> A </grade>
+    		<instructor>Johny Walker</instructor>
+    	</course>
+		<course> 
+			<dept>Physics</dept>
+			<class_name>PHY16A</class_name>
+			<grade> A </grade>
+			<instructor>Susan Parker</instructor>
+		</course>
+		<course> 
+			<dept>Physics</dept>
+			<class_name>PHY30A</class_name>
+			<grade>A</grade> 
+			<instructor>John Dolnick</instructor>
+		</course> 
+		<course>
+			<dept>Physics</dept>
+			<class_name>PHY118A</class_name>
+			<grade> A </grade>
+			<instructor>Prasanna Suman</instructor>
+		</course>
+		<GPA>3.768</GPA>
+	</semester>
+   <semester category="spring">
+    		<course> 
+    		<dept>Biology</dept>
+    		<class_name>BIO101</class_name>
+    		<grade> A </grade>
+    		<instructor>Conrad Walker</instructor>
+    	</course>
+		<course> 
+			<dept>Mathematics</dept>
+			<class_name>MAT130A</class_name>
+			<grade> A </grade>
+			<instructor>Susan Parker</instructor>
+		</course>
+		<course> 
+			<dept>Chemistry</dept>
+			<class_name>CHEM410A</class_name>
+			<grade>A</grade> 
+			<instructor>John Muscle</instructor>
+		</course> 
+		<course>
+			<dept>Physics</dept>
+			<class_name>PHY333a</class_name>
+			<grade> A </grade>
+			<instructor>Prasanna Suman</instructor>
+		</course>
+		<GPA>3.768</GPA>
+	</semester>
+ </year>
+ <year category="Junior">
+		 <semester category="fall">
+    		<course> 
+    		<dept>Biology</dept>
+    		<class_name>BIO122a</class_name>
+    		<grade> A </grade>
+    		<instructor>Johny Walker</instructor>
+    	</course>
+		<course> 
+			<dept>Mathematics</dept>
+			<class_name>MAT170A</class_name>
+			<grade> A </grade>
+			<instructor>Susan Parker</instructor>
+		</course>
+		<course> 
+			<dept>Biology</dept>
+			<class_name>BIO178a</class_name>
+			<grade>A</grade> 
+			<instructor>John Pengyu</instructor>
+		</course> 
+		<course>
+			<dept>Physics</dept>
+			<class_name>MAT10A</class_name>
+			<grade> A </grade>
+			<instructor>Prasanna Suman</instructor>
+		</course>
+		<GPA>3.768</GPA>
+	</semester>
+   <semester category="spring">
+    		<course> 
+    		<dept>English</dept>
+    		<class_name>ENG301</class_name>
+    		<grade> A </grade>
+    		<instructor>Johny Walker</instructor>
+    	</course>
+		<course> 
+			<dept>Mathematics</dept>
+			<class_name>MAT510A</class_name>
+			<grade> A </grade>
+			<instructor>Susan Parker</instructor>
+		</course>
+		<course> 
+			<dept>Chemistry</dept>
+			<class_name>CHEM400</class_name>
+			<grade>A</grade> 
+			<instructor>John Dolnick</instructor>
+		</course> 
+		<course>
+			<dept>Africana Studies</dept>
+			<class_name>AAAS101</class_name>
+			<grade> A </grade>
+			<instructor>Gaspar Suman</instructor>
+		</course>
+		<GPA>3.768</GPA>
+	</semester>
+  </year>
+<year category="Senior">
+     <semester category="fall">
+    		<course> 
+    		<dept>Music</dept>
+    		<class_name>MUS2a</class_name>
+    		<grade> A </grade>
+    		<instructor>Seth Walker</instructor>
+    	</course>
+		<course> 
+			<dept>UWS</dept>
+			<class_name>UWS21</class_name>
+			<grade> A </grade>
+			<instructor>Benne Parker</instructor>
+		</course>
+		<course> 
+			<dept>English</dept>
+			<class_name>ENG90</class_name>
+			<grade>A</grade> 
+			<instructor>John Dolnick</instructor>
+		</course> 
+		<course>
+			<dept>Hispanic Studies</dept>
+			<class_name>HISP107</class_name>
+			<grade> A </grade>
+			<instructor>Gonzalez Pereira</instructor>
+		</course>
+		<GPA>3.768</GPA>
+	</semester>
+   <semester category="spring">
+    		<course> 
+    		<dept>Health</dept>
+    		<class_name>HSSP2</class_name>
+    		<grade> A </grade>
+    		<instructor>Johny Walker</instructor>
+    	</course>
+		<course> 
+			<dept>Mathematics</dept>
+			<class_name>MAT510A</class_name>
+			<grade> A </grade>
+			<instructor>Susan Parker</instructor>
+		</course>
+		<course> 
+			<dept>Chemistry</dept>
+			<class_name>CHEM789</class_name>
+			<grade>A</grade> 
+			<instructor>John Dolnick</instructor>
+		</course> 
+		<course>
+			<dept>Physics</dept>
+			<class_name>PHY900</class_name>
+			<grade> A </grade>
+			<instructor>Advanced Stuff</instructor>
+		</course>
+		<GPA>3.768</GPA>
+	</semester>
+  </year>
+
+
+</Grades>
