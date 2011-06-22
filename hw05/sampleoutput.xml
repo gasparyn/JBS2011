@@ -1,0 +1,20 @@
+here's a sample xml output for viewing items we have in our table of items
+(http://vogueable.heroku.com/items.xml)
+<items type="array">
+   <item><created-at type="datetime">2011-06-20T05:53:40Z</created-at>
+       <description>to be worn by royals only</description>
+          <id type="integer">2</id>
+             <image-url>/royaldress</image-url>
+             <name>Dress1</name>
+             <price type="decimal">4000.0</price>
+            <updated-at type="datetime">2011-06-20T05:53:40Z</updated-at>
+        </item>
+        <item><created-at type="datetime">2011-06-20T05:52:52Z</created-at>
+            <description>Warm in winter, cool during summer</description>
+              <id type="integer">1</id>
+              <image-url>/sock</image-url>
+              <name>Socks</name>
+              <price type="decimal">300.0</price>
+              <updated-at type="datetime">2011-06-20T05:52:52Z</updated-at>
+        </item>
+ </items>
