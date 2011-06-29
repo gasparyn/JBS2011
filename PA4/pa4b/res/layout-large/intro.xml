@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:padding="10dip" android:orientation="vertical">
+    >
+	<TextView
+		android:textSize="25dip"
+	    android:layout_width="fill_parent"
+	    android:layout_height="fill_parent" 
+	    android:text="@string/welcome"
+	    android:gravity="center_horizontal"
+	    android:layout_marginBottom="5dip"
+	    />
+	
+	    
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:padding="10dip"
+  	android:orientation="horizontal">
+    >
+    <Button 
+        android:id="@+id/play_label"
+	 	android:textSize="20dip"
+	 	android:layout_width="wrap_content"
+		android:layout_height="wrap_content" 
+		android:text="@string/play_label"
+		android:gravity="center_horizontal"
+		android:padding="15dip"
+		android:layout_alignParentTop="true" 
+		android:layout_margin="5dip">
+	</Button>
+	 <Button 
+	         android:id="@+id/exit_label"
+	 
+	 	android:textSize="20dip"
+	 	android:layout_width="wrap_content"
+		android:layout_height="wrap_content" 
+		android:text="@string/exit_label"
+		android:gravity="center_horizontal"
+		android:padding="15dip"
+		android:layout_alignParentTop="true"
+		android:layout_margin="5dip">	</Button>
+	</LinearLayout>
+	 
+</LinearLayout>

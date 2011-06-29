@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hola, Bienvenidos!</string>
+    <string name="app_name">Juego de Gas</string>
+    <string name ="button1">button1 </string>
+    <string name ="welcome">hola! </string>
+    
+    	<string name="play_label">Vamos!</string> 
+   	<string name="exit_label">Salir</string> 
+</resources>

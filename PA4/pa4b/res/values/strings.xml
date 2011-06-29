@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, GameActivity!</string>
+    <string name="app_name">MyGame</string>
+    <string name ="button1">button1 </string>
+        <string name ="welcome">Ready to play? </string>
+    
+    	<string name="play_label">Play</string> 
+   	<string name="exit_label">exit</string> 
+</resources>
