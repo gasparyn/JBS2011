@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/7/trunk/androidclient/src/net/jimblacker/multimatch
+END
+AccessException.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/6/trunk/androidclient/src/net/jimblacker/multimatch/AccessException.java
+END
+CardRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/7/trunk/androidclient/src/net/jimblacker/multimatch/CardRenderer.java
+END
+MainActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/6/trunk/androidclient/src/net/jimblacker/multimatch/MainActivity.java
+END
+CardTestActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/7/trunk/androidclient/src/net/jimblacker/multimatch/CardTestActivity.java
+END
+GameActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/6/trunk/androidclient/src/net/jimblacker/multimatch/GameActivity.java
+END

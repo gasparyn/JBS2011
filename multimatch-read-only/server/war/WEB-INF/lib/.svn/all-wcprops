@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/5/trunk/server/war/WEB-INF/lib
+END
+datanucleus-appengine-1.0.6.final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5/trunk/server/war/WEB-INF/lib/datanucleus-appengine-1.0.6.final.jar
+END
+appengine-api-1.0-sdk-1.3.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/trunk/server/war/WEB-INF/lib/appengine-api-1.0-sdk-1.3.2.jar
+END
+jsr107cache-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5/trunk/server/war/WEB-INF/lib/jsr107cache-1.1.jar
+END
+jdo2-api-2.3-eb.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5/trunk/server/war/WEB-INF/lib/jdo2-api-2.3-eb.jar
+END
+appengine-api-labs-1.3.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5/trunk/server/war/WEB-INF/lib/appengine-api-labs-1.3.2.jar
+END
+geronimo-jpa_3.0_spec-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/trunk/server/war/WEB-INF/lib/geronimo-jpa_3.0_spec-1.1.1.jar
+END
+appengine-jsr107cache-1.3.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/trunk/server/war/WEB-INF/lib/appengine-jsr107cache-1.3.2.jar
+END
+datanucleus-core-1.1.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5/trunk/server/war/WEB-INF/lib/datanucleus-core-1.1.5.jar
+END
+geronimo-jta_1.1_spec-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/trunk/server/war/WEB-INF/lib/geronimo-jta_1.1_spec-1.1.1.jar
+END
+datanucleus-jpa-1.1.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/trunk/server/war/WEB-INF/lib/datanucleus-jpa-1.1.5.jar
+END
